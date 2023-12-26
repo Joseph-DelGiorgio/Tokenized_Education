@@ -1,5 +1,10 @@
 # Tokenized_Education
 
+For a better reading experiance, please visit: 
+
+https://docs.google.com/document/d/1weRbGk8cDWu8TAzEWvrG0bCn-D3_0hdlVziJ4s3A9qY/edit?usp=sharing
+
+
 Decentralized Learning 
 A White Paper on Tokenizing Education & DAO Governance:
 
