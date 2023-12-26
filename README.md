@@ -1,7 +1,8 @@
 # Tokenized_Education
 
 Decentralized Learning 
-A White Paper on Tokenizing Education & DAO Governance
+A White Paper on Tokenizing Education & DAO Governance:
+
 Decentralized Learning is a meritocratic, incentive driven education market, enabled by the Ethereum Virtual Machine (EVM) to facilitate a vibrant education ecosystem where knowledge is rewarded, community governs, and education is democratized. 
 
 1. The Problem: Traditional education systems face numerous challenges:
